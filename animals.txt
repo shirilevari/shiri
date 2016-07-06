@@ -1,5 +1,4 @@
 giraffe
-elephantje
+elephant
 cat
 dog
-shark
