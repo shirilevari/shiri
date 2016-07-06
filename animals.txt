@@ -1,0 +1,4 @@
+giraffe
+elephant
+cat
+dog
